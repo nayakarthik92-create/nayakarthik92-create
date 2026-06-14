@@ -14,10 +14,10 @@
 
 ---
 
-## 🚀 Projects (Coming Soon)
-- Credit Risk Prediction
-- Student Data Analysis
-- Chatbot using Python
+## 🚀 Projects
+- [Python Calculator](https://github.com/nayakarthik92-create/Python-Calculator)
+- [Student Data Analysis](https://github.com/nayakarthik92-create/Student-Data-Analysis)
+- [Credit Risk Prediction](https://github.com/nayakarthik92-create/Credit---Risk---Prediction)
 
 ---
 
